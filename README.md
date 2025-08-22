@@ -33,7 +33,6 @@
 - [**SOC Capstone Project**](https://github.com/Eon0024/Baztech-Capstone-Project)  
   Brute-force attack simulation on Ubuntu & Windows endpoints, log collection, Wazuh SIEM detection, and incident report.  
 - [**Techstart Solutions Case Study**](https://github.com/Eon0024/Techstart-Solutions-Case-Study/)
-
   Network redesign using switches and firewall integration to improve performance and security.
 - More projects coming soon...  
 
